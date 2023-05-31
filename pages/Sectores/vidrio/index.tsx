@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Vidrio() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1>SELECCIONE SU SECTOR</h1>
+      <h1>SELECCIONE SU  SECTOR</h1>
       <div>
         <li>MAQUINARIA PARA VIDRIO PLANO TRANSFORMADORES DE VIDRIO</li>
         <li>ALMACENISTAS Y GRANDES CRISTALERÍAS</li>
