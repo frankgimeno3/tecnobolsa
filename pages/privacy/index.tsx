@@ -2,7 +2,7 @@ import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export default function Privacidad() {
+export default function Privacy() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-between p-24">
       <h1>Política de Privacidad</h1>

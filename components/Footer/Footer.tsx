@@ -10,10 +10,10 @@ const Footer: React.FC = () => {
         </Link>
       </div>
       <div className="flex flex-col items-center md:flex-row space-y-4 pt-2 md:space-y-0 pt-2 md:space-x-4 pt-2">
-        <Link href="/terminos" passHref>
+        <Link href="/terms" passHref>
           <span className="text-white hover:underline cursor-pointer">Términos de servicio</span>
         </Link>
-        <Link href="/privacidad" passHref>
+        <Link href="/privacy" passHref>
           <span className="text-white hover:underline cursor-pointer">Política de privacidad</span>
         </Link>
         <Link href="/contacto" passHref>
