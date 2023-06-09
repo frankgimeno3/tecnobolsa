@@ -25,7 +25,7 @@ const BolsasDeEmpleo = () => {
             </p>
             <div className="flex justify-center">
               <Image
-                src="/images/imagenGenerica.png"
+                src="/images/imagenGenerica2.png"
                 alt="Imagen 1"
                 width={50}
                 height={50}
@@ -43,7 +43,7 @@ const BolsasDeEmpleo = () => {
             </p>
             <div className="flex justify-center">
               <Image
-                src="/images/imagenGenerica.png"
+                src="/images/imagenGenerica2.png"
                 alt="Imagen 2"
                 width={50}
                 height={50}
@@ -63,7 +63,7 @@ const BolsasDeEmpleo = () => {
             </p>
             <div className="flex justify-center">
               <Image
-                src="/images/imagenGenerica.png"
+                src="/images/imagenGenerica2.png"
                 alt="Imagen 3"
                 width={50}
                 height={50}

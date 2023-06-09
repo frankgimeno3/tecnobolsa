@@ -14,7 +14,7 @@ const SobreNosotros = () => {
       </p>
       <div className="flex justify-center my-5">
         <Image
-          src="/images/imagenGenerica.png"
+          src="/images/imagenGenerica2.png"
           alt="Imagen 1"
           width={50}
           height={50}
@@ -37,7 +37,7 @@ const SobreNosotros = () => {
 
       <div className="flex justify-center mt-5">
         <Image
-          src="/images/imagenGenerica.png"
+          src="/images/imagenGenerica2.png"
           alt="Imagen 2"
           width={50}
           height={50}
